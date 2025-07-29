@@ -1,7 +1,7 @@
 {
-  "name": "currency-converter-backend",
+  "name": "swift-flow-backend",
   "version": "1.0.0",
-  "description": "Backend API for Currency Converter Application with Authentication",
+  "description": "Backend API for Swift Flow - Modern Currency Converter Application with Authentication",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -31,6 +31,6 @@
     "authentication",
     "exchange-rates"
   ],
-  "author": "Currency Converter Team",
+  "author": "Swift Flow Team",
   "license": "MIT"
 }
